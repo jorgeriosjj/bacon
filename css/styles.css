@@ -1,0 +1,29 @@
+h1{
+  color: red;
+  font-size: 200px;
+}
+
+  img:hover {
+    background-color: gold;
+  }
+/*
+img{
+  background-color: red;
+}
+*/
+/*****class selectoris*****/
+.bacon {
+  background-color: red;
+
+}
+.chocolate {
+  background-color: green;
+}
+.circular{
+  border-radius: 80%;
+}
+
+/*ID SELECTORIS*/
+#Heading{
+  color: blue;
+}
